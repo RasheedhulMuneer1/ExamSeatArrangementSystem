@@ -1,1 +1,1 @@
-# ExamSeatArrangementSystem
+# ExamSeatArrangementSystem standalone swing application
